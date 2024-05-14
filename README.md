@@ -4,6 +4,7 @@ This GitHub page is a collection of scripts and general code used for the analys
 Install the SLAM-seq conda enviornment using the following .yml file
 slamseq.yml
 
+
 •	python (>= version 3.4)
 •	R (>= 3.4.3)
 •	pairtools (https://github.com/open2c/pairtools)
